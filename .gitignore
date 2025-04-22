@@ -3,3 +3,4 @@ example/placeholder/**
 example/node_modules
 website/node_modules
 **/.cache
+.DS_Store
